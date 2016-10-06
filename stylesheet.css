@@ -1,0 +1,222 @@
+.main{
+		border: 4px dashed black;
+		padding: 100px;
+		background-color: green;
+}
+.first{
+		margin-top: 50px;
+		margin-right: 50px;
+		margin-bottom: -10px;
+		margin-left: 1000px;		
+}
+
+#one {
+		font-size: 55px;
+		text-indent: 25px;
+		font-family: Calabri;
+}
+
+img{
+		height: 320px;
+		width: 250px;
+		position: absolute;
+		border: 2px solid black;
+		margin-top: -65px;
+		margin-left: -70px;
+		border-radius: 15px;
+		-webkit-transform: rotate(-6deg)
+}
+
+.second{
+		width: 1170px;
+		border: 2px solid black;
+		margin-top: -40px;
+		margin-right: 80px;
+		margin-bottom: 20px;
+		margin-left: 30px;
+}
+
+#four {
+		font-size: 23px;
+}
+
+#two{
+		font-size: 20px;
+		display: inline-block;
+}
+
+#three {
+		font-size: 20px;
+		margin-top: -20px;
+}
+
+.third{
+		text-indent: 29px;
+		display: inline;
+		
+}
+
+.forth{
+		margin-left: 29px;
+		text-align: left;
+		width: 800px;
+		
+}
+
+/*CATEGORY EDUCATION*/
+.fifth #five {
+		margin-left: 25px;
+		margin-top: 80px;
+		font-size: 29px;
+		display: inline-block;
+}
+
+.seven{
+		height: 110px;
+		width: .01px;
+		border: 2px solid blue;
+		margin-left: 200px;
+		margin-top: -55px;
+}
+
+.fifth #six{
+		font-size: 25px;
+		margin-left: 240px;
+		margin-top: -115px;
+}
+
+#eight{
+		font-size: 20px;
+		margin-left: 240px;
+		margin-top: -10px;
+	
+}
+
+#seven {
+		font-size: 20px;
+		margin-left: 240px;
+		margin-top: -10px;
+}
+
+/*CATEGORY SKILLS*/
+.sixth {
+		width: 600px;
+}
+.sixth #nine{
+		margin-left: 25px;
+		margin-top: 80px;
+		font-size: 29px;
+		display: inline-block;
+}
+
+.sixth #ten {
+		font-size: 25px;
+		margin-left: 240px;
+		margin-top: -250px;
+}
+
+.sixth #eleven {
+		font-size: 20px;
+		margin-left: 240px;
+		margin-top: -10px;
+}
+
+.sixth #twelve{
+		font-size: 25px;
+		margin-left: 240px;
+		margin-top: -5px;
+}
+
+.eighth {
+		height: 240px;
+		width: .01px;
+		border: 2px solid blue;
+		margin-left: 200px;
+		margin-top: -55px;
+}
+
+#thirteen {
+		font-size: 20px;
+		margin-left: 240px;
+		margin-top: -10px;
+	
+}
+
+/*CATEGORY EXPERIENCE*/
+#fourteen {
+		margin-left: 25px;
+		margin-top: 100px;
+		font-size: 29px;
+		display: inline-block;
+}
+
+.tenth  {
+		height: 130px;
+		width: .01px;
+		border: 2px solid blue;
+		margin-left: 200px;
+		margin-top: -55px;
+}
+
+#fifteen {
+		font-size: 29px;
+		margin-left: 240px;
+		margin-top: -140px;
+
+}
+
+ul {
+		font-size: 20px;
+		margin-left: 240px;
+		margin-top: -10px;
+}
+
+/*CATEGORY HOBBIES*/
+#sixteen {
+		margin-left: 25px;
+		margin-top: 100px;
+		font-size: 29px;
+		display: inline-block;
+}
+
+.twelveth  {
+		height: 130px;
+		width: .01px;
+		border: 2px solid blue;
+		margin-left: 200px;
+		margin-top: -55px;
+}
+
+#you {
+		font-size: 20px;
+		margin-left: 240px;
+		margin-top: -135px;
+		
+}
+
+/*CATEGORY REFERENCES*/
+#seventh {
+		margin-left: 25px;
+		margin-top: 100px;
+		font-size: 29px;
+		display: inline-block;
+}
+
+.fifteen  {
+		height: 250px;
+		width: .01px;
+		border: 2px solid blue;
+		margin-left: 200px;
+		margin-top: -55px;
+}
+
+#bat {
+		margin-left: 240px;
+		margin-top: -270px;
+}
+
+#cool {
+		margin-left: 240px;
+		margin-top: -.90px;
+		float: clear;
+}
